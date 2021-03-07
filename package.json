@@ -28,6 +28,7 @@
     "node": "^10.15.0",
     "npm": "^6.0.0"
   },
+  
   "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
   "main": "server.js",
   "devDependencies": {
@@ -52,10 +53,10 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Ankit Butola",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ankitbutola51/comp229-midterm/issues"
   },
   "homepage": ""
 }
