@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:ankitbutola51/comp229-midterm.git"
   },
   "keywords": [
     "NodeJS",
